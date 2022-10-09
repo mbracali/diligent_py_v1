@@ -1,0 +1,8 @@
+"A00","Head Office"
+"B01","Purchasing"
+"C01","Marketing"
+"D11","Design"
+"D21","Finance & Accounting"
+"E01","Information Services"
+"E11","Warehouse"
+"E21","Sales"
